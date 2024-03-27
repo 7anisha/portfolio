@@ -1,0 +1,34 @@
+.resume {
+  text-align: center;
+}
+
+.resume-image {
+  margin-bottom: 20px;
+
+}
+
+.resume-pdf {
+  margin-top: 20px;
+}
+
+.resume-pdf a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.resume-pdf a:hover {
+  background-color: #0056b3;
+}
+.resume-content {
+ /* Center the content horizontally */
+  padding: 20px; /* Add padding around the content */
+}
+.resume-image img {
+  max-width: 100%; /* Ensure the image doesn't exceed its container's width */
+  height: auto; /* Maintain the image's aspect ratio */
+  max-height: 1400px; /* Set the maximum height of the image */
+}
