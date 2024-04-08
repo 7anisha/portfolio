@@ -62,7 +62,7 @@ const Headermain = () => {
       </header>
       <div className="br-top"></div>
       <div className="br-bottom"></div>
-      <div className="br-left"></div>
+     
       <div className="br-right"></div>
       
     </>

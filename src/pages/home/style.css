@@ -7,6 +7,7 @@ section {
     transition: all .5s ease-in;
 }
 
+
 .who_am_I {
     font-family: Cinzel;
 }
@@ -51,9 +52,12 @@ section {
     }
 }
 
+.cont{
+    margin-left: 13% !important;
+}
 .intro_sec .text,
 .intro_sec .h_bg-image {
-    width: 50%;
+    width: 33%;
 }
 
 @media (max-width:991.98px) {
