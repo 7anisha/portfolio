@@ -1,0 +1,26 @@
+/* style.css */
+
+.marksheets {
+  padding: 0px;
+}
+
+.marksheets-content {
+  max-width: 800px;
+  margin: 0 auto;
+ 
+}
+
+.marksheets h1 {
+  font-size: 34px;
+  margin-bottom: 20px;
+}
+
+.marksheets-pdf {
+  margin-top: 0px;
+}
+
+.marksheets-pdf iframe {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  height: 600px;
+}

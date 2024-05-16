@@ -78,6 +78,12 @@ export const Home = () => {
                       <div className="ring one"></div>
                     </div>
                   </Link>
+                  <Link to="/marksheets">
+                    <div id="button_h" className="btnn ac_btn btn">
+                      Marksheets
+                      <div className="ring one"></div>
+                    </div>
+                  </Link>
                 </div>
               </div>
             </div>

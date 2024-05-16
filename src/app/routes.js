@@ -5,6 +5,7 @@ import { Home } from "../pages/home";
 import { Portfolio } from "../pages/portfolio";
 import { ContactUs } from "../pages/contact";
 import { Resume } from "../pages/resume";
+import { Marksheets } from "../pages/marksheets";
 import { Certificate } from "../pages/certificate";
 import { About } from "../pages/about";
 import { Socialicons } from "../components/socialicons";
@@ -28,6 +29,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/contact" element={<ContactUs />} />
         <Route path="/certificate" element={<Certificate />} />
         <Route path="/resume" element={<Resume />} />
+        <Route path="/marksheets" element={<Marksheets />} />
         <Route path="*" element={<Home />} />
       </Routes>
     </CSSTransition>

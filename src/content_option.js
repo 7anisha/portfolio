@@ -147,7 +147,13 @@ const dataportfolio = [{
 
 
 
-const certificate = [{
+const certificate = [
+    {
+        pname: "NPTEL-Cloud Computing",
+        img: "./images/cer.png",
+        link: "https://drive.google.com/file/d/1ZeJfCMQSF58fkTvQSkARPHD_JsIXv_mO/view?usp=sharing",
+    },
+    {
     pname: "Angular",
     img: "./images/cer.png",
     link: "https://drive.google.com/file/d/1TVRytGvO9kYkFf6A2qx4arCBdyRsIYKK/view?usp=sharing",
