@@ -1,7 +1,7 @@
 const logotext = "ANISHA";
 const meta = {
     title: "Anisha Rani",
-    description: "I’m Anisha Rani ,currently a 3rd year BTech student , familiar with Machine Learning, Full stack dDevelopment, DevOps and Cloud Computing (AWS)",
+    description: "I’m Anisha Rani ,currently a Final year BTech student , familiar with Machine Learning, Full stack dDevelopment, DevOps and Cloud Computing (AWS)",
 };
 
 const introdata = {
@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "A Final year BTech student",
-        third: "Currently looking for internship",
+        third: "Currently looking for Full-time jobs",
     },
     description: `👋 Hello, I'm Anisha Rani, a passionate final-year BTech student with expertise in a variety of  \ndomains, including Machine Learning, Full Stack Development, DevOps, and Cloud Computing (specifically AWS).`,
     your_img_url: "/images/me.jpeg",
