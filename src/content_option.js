@@ -37,7 +37,7 @@ const worktimeline = [{
 ];
 
 const skills = [{
-{
+
     name: "HTML",
     value: 80,
 },
