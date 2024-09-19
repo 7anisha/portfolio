@@ -8,21 +8,21 @@ const introdata = {
     title: "I’m Anisha Rani",
     animated: {
         first: "I love coding",
-        second: "A 3rd year BTech student",
+        second: "A Final year BTech student",
         third: "Currently looking for internship",
     },
-    description: `👋 Hello, I'm Anisha Rani, a passionate third-year BTech student with expertise in a variety of  \ndomains, including Machine Learning, Full Stack Development, DevOps, and Cloud Computing (specifically AWS).`,
+    description: `👋 Hello, I'm Anisha Rani, a passionate final-year BTech student with expertise in a variety of  \ndomains, including Machine Learning, Full Stack Development, DevOps, and Cloud Computing (specifically AWS).`,
     your_img_url: "/images/me.jpeg",
 };
 
 const dataabout = {
     title: "A bit about my self",
-    aboutme: "A motivated and ambitious third-year BTech student with a keen interest in full-stack development, DevOps, and cloud computing. Seeking opportunities to apply and enhance my technical skills in a dynamic and innovative environment. Eager to contribute to projects that leverage modern technologies and methodologies, while continuously learning and growing in the field of software engineering.",
+    aboutme: "A motivated and ambitious final-year BTech student with a keen interest in full-stack development, DevOps, and cloud computing. Seeking opportunities to apply and enhance my technical skills in a dynamic and innovative environment. Eager to contribute to projects that leverage modern technologies and methodologies, while continuously learning and growing in the field of software engineering.",
 };
 const worktimeline = [{
     jobtitle: "Infosys Springboard Angular Project intern",
     where: "Online",
-    date: "Ongoing",
+    date: "2024",
 },
 {
     jobtitle: "DevOps and CloudComputing intern",
@@ -37,24 +37,33 @@ const worktimeline = [{
 ];
 
 const skills = [{
-    name: "Python",
-    value: 90,
-},
 {
-    name: "Djano",
-    value: 85,
+    name: "HTML",
+    value: 80,
 },
-{
+                {
+    name: "CSS",
+    value: 80,
+},
+                {
+    name: "MongoDB",
+    value: 80,
+},
+                {
     name: "Javascript",
     value: 80,
 },
 {
-    name: "React",
+    name: "MySQL",
+    value: 80,
+},
+{
+    name: "React Js",
     value: 60,
 },
 {
     name: "Angular",
-    value: 90,
+    value: 50,
 },
 {
     name: "C,C++",
