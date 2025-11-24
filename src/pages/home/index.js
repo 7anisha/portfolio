@@ -19,7 +19,7 @@ export const Home = () => {
           <div
             className="h_bg-image order-1 order-lg-2 h-100"
             style={{
-              backgroundImage: `url("./images/img_3590.jpeg")`,
+              backgroundImage: `url("./images/IMG_3590.jpeg")`,
               marginLeft: 'auto', // Push the element to the right
               marginRight: '30px' // Add right margin for spacing
             }}
